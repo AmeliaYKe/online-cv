@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Amelia Ke
-    tagline: Full Stack Developer
+    tagline: Security Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: keyuanding@gmail.com
+    phone: 000 000 0000
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
@@ -38,13 +38,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Cat
         link:
 
-      - item: Snowboarding
+      - item: Sing
         link:
 
-      - item: Cooking
+      - item: Piano
         link:
 
 career-profile:
